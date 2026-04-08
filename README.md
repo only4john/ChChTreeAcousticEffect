@@ -15,14 +15,14 @@ The optimal scales of effect for different acoustic indices.
 Data 
 The core data for this analysis is expected to be in a GeoPackage file named soundIndices_all_final_values.gpkg with a layer named soundindices_final.
 
-Note: The data file is not included in this repository due to its large size. Users are expected to prepare their own data according to the methodology described in the associated publication. The file should contain the geometry (points) along with fields for all acoustic indices, canopy cover metrics, and canopy volume metrics.
+Note: The data file is not included in this repository due to its large size. please download from here  https://pan.baidu.com/s/1QJGJMxo1nN8pyOriWyDxcw?pwd=kpqf 
 
 Installation 
 This project uses a Conda environment to manage dependencies. To ensure reproducibility, an environment.yml file is provided.
 
 Clone the repository:
 
-git clone [https://github.com/YourUsername/christchurch-soundscape-analysis.git](https://github.com/YourUsername/christchurch-soundscape-analysis.git)
+git clone [https://github.com/only4john/christchurch-soundscape-analysis.git](https://github.com/only4john/christchurch-soundscape-analysis.git)
 cd christchurch-soundscape-analysis
 
 Create the Conda environment from the file:
